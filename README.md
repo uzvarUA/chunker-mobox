@@ -118,7 +118,7 @@ rm -rf $PREFIX/glibc/opt/termux-style
 [mesa-zink-11.06.22](https://github.com/alexvorxx/mesa-zink-11.06.22)
 
 [Mesa-VirGL](https://github.com/alexvorxx/Mesa-VirGL)
-# Termux-x11 preferences (F-droid):
+# Termux-x11 preferences (arm64-v8a):
 * `output`:
   * `Display resolution mode` exact
   * `Display resolution` 1280x720
