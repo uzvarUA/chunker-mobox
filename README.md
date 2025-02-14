@@ -62,6 +62,7 @@ Mesa VirGL, Turnip, Wine Mono та Gecko можуть бути встановл�
     * 1.12.0+
   * Java
     * 1.8.8+
+***
 **Microsoft Creator Docs**:
 https://learn.microsoft.com/en-us/minecraft/creator/documents/chunkeroverview?view=minecraft-bedrock-stable
 - Встановити `DXVK`
